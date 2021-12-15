@@ -1,6 +1,7 @@
+Good Page:
 https://benny-foz.github.io/suiii/
 
 
 
-Cursed Sui:
+Cursed Page:
 https://benny-foz.github.io/suiii/webpage.html
