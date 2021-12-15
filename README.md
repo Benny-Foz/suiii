@@ -2,5 +2,5 @@ https://benny-foz.github.io/suiii/
 
 
 
-Cursed Sui
+Cursed Sui:
 https://benny-foz.github.io/suiii/webpage.html
